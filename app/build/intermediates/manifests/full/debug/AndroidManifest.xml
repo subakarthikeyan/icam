@@ -20,8 +20,7 @@
         android:hardwareAccelerated="true"
         android:icon="@drawable/icon"
         android:label="iCam"
-        android:supportsRtl="true"
-        android:testOnly="true" >
+        android:supportsRtl="true" >
         <meta-data
             android:name="com.google.android.gms.vision.DEPENDENCIES"
             android:value="ocr" />
